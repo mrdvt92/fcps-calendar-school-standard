@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2021-10-11",
+   "students" : false,
+   "staff" : true,
+   "notes" : "Student Holiday (Professional Development Day - Indigenous Peoples’ Day)",
+   "options" : {
+      "SP" : true
+   }
+}

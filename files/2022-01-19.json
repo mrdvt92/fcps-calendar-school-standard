@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2022-01-19",
+   "students" : true,
+   "staff" : true,
+   "notes" : "Orthodox Epiphany",
+   "options" : {
+      "O" : true
+   }
+}

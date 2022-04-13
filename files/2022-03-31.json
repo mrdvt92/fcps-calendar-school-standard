@@ -1,0 +1,12 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2022-03-31",
+   "students" : true,
+   "staff" : true,
+   "notes" : "End of Third Quarter - 2-hour Early Release",
+   "options" : {
+      "ER" : true,
+      "QE" : true
+   }
+}

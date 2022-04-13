@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2021-09-06",
+   "students" : false,
+   "staff" : false,
+   "notes" : "Student Holiday (Labor Day Break)",
+   "options" : {
+      "H" : true
+   }
+}

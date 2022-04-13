@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2021-08-13",
+   "students" : false,
+   "staff" : true,
+   "notes" : "Optional work from alternate location",
+   "options" : {
+      "TW" : true
+   }
+}

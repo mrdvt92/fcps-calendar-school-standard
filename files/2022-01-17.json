@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2022-01-17",
+   "students" : false,
+   "staff" : false,
+   "notes" : "Holiday (Martin Luther King Jr.'s Birthday)",
+   "options" : {
+      "H" : true
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2022-06-20",
+   "students" : false,
+   "staff" : false,
+   "notes" : "Juneteenth (Observed)",
+   "options" : {
+      "H" : true
+   }
+}

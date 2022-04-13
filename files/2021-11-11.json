@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2021-11-11",
+   "students" : true,
+   "staff" : true,
+   "notes" : "2-hour Early Release (Veterans Day)",
+   "options" : {
+      "ER" : true
+   }
+}
