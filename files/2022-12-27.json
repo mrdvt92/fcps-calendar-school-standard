@@ -1,0 +1,11 @@
+{
+   "authority" : "Farifax County Public Schools",
+   "calendar" : "2021-2022 Standard School Year",
+   "dt" : "2022-12-27",
+   "students" : false,
+   "staff" : false,
+   "notes" : "Holiday (Winter Break)",
+   "options" : {
+      "H" : true
+   }
+}
