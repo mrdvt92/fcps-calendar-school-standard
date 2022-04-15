@@ -11,6 +11,10 @@ my $day   = 1;
 my $dt   = DateTime->new(year=>$year, month=>$month, day=>$day); #floating time zone
 my $stop = $dt->clone->add(years=>1);                            #supports 364 or 365-day years
 
+say "authority: ";
+say "calendar: ";
+say "";
+
 while ($dt < $stop) {
   my $student = $dt->day_of_week > 5 ? "0" : "1";                #very rough cut
   my $staff   = $dt->day_of_week > 5 ? "0" : "1";                #very rough cut
