@@ -21,6 +21,9 @@ My hope is that others need something like this and are interested in refining t
 
 - [2021-2022](https://www.fcps.edu/sites/default/files/media/forms/2021-2022-standard-school-calendar.pdf)
 - [2022-2023](https://www.fcps.edu/sites/default/files/2022-2023-standard-school-year-calendar.pdf)
+- [2023-2024](https://go.boarddocs.com/vsba/fairfax/Board.nsf/files/CNW29Q012041/$file/2023-2024-standard-school-year-calendar-option-BLUE-DRAFT-VERSION-2-AMENDED.pdf)
+- [2024-2025](https://go.boarddocs.com/vsba/fairfax/Board.nsf/files/CNW29S01214F/$file/2024-2025-standard-school-year-calendar-BLUE-DRAFT-AMENDED.pdf)
+- [2025-2026](https://go.boarddocs.com/vsba/fairfax/Board.nsf/files/CNW29V0122C1/$file/2025-2026-standard-school-year-calendar-BLUE-DRAFT-AMENDED.pdf)
 
 ## Calendar Template Format
 
