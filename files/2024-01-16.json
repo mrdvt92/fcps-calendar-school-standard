@@ -2,8 +2,8 @@
    "authority" : "Farifax County Public Schools",
    "calendar" : "2023-2024 Standard School Year",
    "dt" : "2024-01-16",
-   "students" : true,
+   "students" : false,
    "staff" : true,
-   "notes" : "",
+   "notes" : "Snow Day",
    "options" : {}
 }
